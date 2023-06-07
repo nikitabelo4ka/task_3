@@ -1,0 +1,26 @@
+{
+  "name": "task_3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nikitabelo4ka/task_3.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nikitabelo4ka/task_3/issues"
+  },
+  "homepage": "https://github.com/nikitabelo4ka/task_3#readme",
+  "dependencies": {
+    "cli-table": "^0.3.11",
+    "console.table": "^0.10.0",
+    "crypto": "^1.0.1",
+    "prompt-sync": "^4.2.0",
+    "random-number-csprng": "^1.0.2"
+  }
+}
